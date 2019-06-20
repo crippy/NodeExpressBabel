@@ -1,6 +1,6 @@
 # Node Express babel Skeleton
 
-This is a simple node express and babel starter pack, more details to follow. Main aim is to get a Node Express and babel skeleton project inserted into a Docker Container so it can be deployed to any Cloud provider, this promotes flexibility and enable it to be cloud agnostic.
+This is a simple node express and babel starter pack, more details to follow. Main aim is to get a Node Express and babel skeleton project inserted into a Docker Container so it can be deployed to any Cloud provider, this promotes flexibility and enables it to be cloud agnostic.
 
 ## Packages Used
 
